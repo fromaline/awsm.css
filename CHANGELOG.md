@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) 
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [3.0.3] - 2019-06-30
+### Fixed
+- Audit warnings (deps were updated).
+
+### Changed
+- Margins between content, footer and articles. 
+- Margins for details inside `ul` / `ol` (completely removed). 
+
 ## [3.0.2] - 2018-01-26
 ### Changed
 - Buttons have active color now. 
